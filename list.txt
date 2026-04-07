@@ -5,7 +5,7 @@ Rocket League : RocketLeague
 Hytale : HytaleClient
 Apex Legends : r5apex_dx12
 Where Winds Meet : wwm
-Arknights: Endfield : Endfield
+Arknights Endfield : Endfield
 Roblox : Roblox
 Hogwarts Legacy : HogwartsLegacy
 Overwatch : Overwatch
