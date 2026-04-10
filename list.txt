@@ -1,1 +1,14 @@
+Fortnite : FortniteClient-Win64-Shipping
+Grand Theft Auto V Legacy : GTA5
+Dead By Daylight : DeadByDaylight
+Rocket League : RocketLeague
+Hytale : HytaleClient
+Apex Legends : r5apex_dx12
+Where Winds Meet : wwm
+Arknights Endfield : Endfield
+Roblox : Roblox
+Hogwarts Legacy : HogwartsLegacy
+Overwatch : Overwatch
+Call of Duty Black Ops 7 : cod
+Arena Breakout Infinite : Arena Breakout Infinite/ABInfinite/Binaries/Win64/UAGame
 pilar diff : pilardiff
