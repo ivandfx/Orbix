@@ -11,4 +11,3 @@ Hogwarts Legacy : HogwartsLegacy
 Overwatch : Overwatch
 Call of Duty Black Ops 7 : cod
 Arena Breakout Infinite : Arena Breakout Infinite/ABInfinite/Binaries/Win64/UAGame
-pilar diff : pilardiff
