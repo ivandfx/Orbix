@@ -13,4 +13,4 @@ Call of Duty Black Ops 7 : cod
 Arena Breakout Infinite : Arena Breakout Infinite/ABInfinite/Binaries/Win64/UAGame
 Torchlight Infinite : Torchlight Infinite/UE_game/Binaries/Win64/torchlight_infinite
 Goddess of Victory - Nikke : nikke
-Once Human : Once Human/ONCE_HUMAN.exe
+Once Human : Once Human/ONCE_HUMAN
