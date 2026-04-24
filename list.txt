@@ -14,3 +14,4 @@ Arena Breakout Infinite : Arena Breakout Infinite/ABInfinite/Binaries/Win64/UAGa
 Torchlight Infinite : Torchlight Infinite/UE_game/Binaries/Win64/torchlight_infinite
 Goddess of Victory - Nikke : nikke
 Once Human : Once Human/ONCE_HUMAN
+Arknights: Endfield = Endfield
