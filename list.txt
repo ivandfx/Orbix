@@ -1,3 +1,4 @@
+*UPDATE TO 1.1.3 OR NEWER
 Fortnite : FortniteClient-Win64-Shipping
 Grand Theft Auto V Legacy : GTA5
 Dead By Daylight : DeadByDaylight
